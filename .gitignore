@@ -208,3 +208,8 @@ __marimo__/
 
 df_results.csv
 .claude
+.DS_Store
+.env.dev
+/data/df_results.csv
+/data/df_results.csv.zip
+/data/*
