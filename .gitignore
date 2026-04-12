@@ -206,7 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-df_results.csv
+*.csv
 .claude
 .DS_Store
 .env.dev
